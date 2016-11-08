@@ -3,12 +3,12 @@
   "description": "Mocha and Jasmine Testing",
   "version": "0.0.1",
   "devDependencies": {
-    "grunt": "0.4.x",
-    "grunt-contrib-watch": "~0.2.0",
-    "grunt-contrib-jshint": "~0.4.3",
-    "grunt-contrib-jasmine": "~0.4.2",
-    "grunt-mocha-cli": "~1.0.2",
-    "phantomjs": "1.8.2-0",
-    "expect.js": "~0.2.0"
+    "grunt": "~1.0.1",
+    "grunt-contrib-watch": "~1.0.0",
+    "grunt-contrib-jshint": "~1.0.0",
+    "grunt-contrib-jasmine": "~1.0.3",
+    "grunt-mocha-cli": "~2.1.0",
+    "phantomjs": "2.1.7",
+    "expect.js": "~0.3.1"
   }
 }
